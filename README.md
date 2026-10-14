@@ -23,4 +23,5 @@ Analyzed 309 marketing campaign records to understand the customer funnel — fr
 - Social category has highest spend (45.11%)
 
 ## Screenshot
-![Dashboard](website_marketing_funnel.png)
+<img width="1446" height="636" alt="image" src="https://github.com/user-attachments/assets/faee4f21-4e04-472d-9e3f-7a6f0b26b66c" />
+
